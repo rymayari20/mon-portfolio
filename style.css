@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #ff5eae; /* Couleur douce */
+    background: #ff5eae;
     color: #fff;
     padding: 2rem 0;
     text-align: center;
@@ -52,11 +52,11 @@ section {
 }
 
 .button:hover {
-    background: #ff2b8a; /* Couleur plus foncée au survol */
+    background: #ff2b8a; 
 }
 
 .profile-pic {
-    width: 150px; /* Ajustez selon vos besoins */
+    width: 150px; 
     border-radius: 50%;
     margin-top: 20px;
 }
